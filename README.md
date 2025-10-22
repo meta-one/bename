@@ -1,4 +1,4 @@
-# 中文取名神器 - H5网站
+﻿# 中文取名神器 - H5网站
 
 一个基于Vue 3 + Vite开发的智能中文取名H5应用，帮助用户为宝宝取一个吉祥如意的名字。
 
@@ -148,7 +148,7 @@ MIT License
 
 如有问题或建议，请通过以下方式联系：
 - GitHub Issues
-- Email: your-email@example.com
+- Email: tih100@gmail.com
 
 ---
 
